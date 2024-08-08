@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.51.21",
+    "axios": "^1.7.3",
     "expo": "~51.0.25",
     "expo-status-bar": "~1.12.1",
+    "lucide-react-native": "^0.424.0",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-circular-progress": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
